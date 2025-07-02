@@ -1,4 +1,5 @@
 #ALL TextToSpeech By @hemant
+https://github.com/Hem0093/TextToSpeech/blob/main/LICENSE
 
 # 🗣️ TextToSpeech
 
